@@ -34,7 +34,8 @@ A hazard icon is shown in the top corner of the screen:
 - 3 × 220Ω resistors  
 - 5V magnetic buzzer  
 - Male-to-male wires  
-- Female-to-male wires  
+- Female-to-male wires
+- Code: used chatgpt to generate it 
 
 ## Circuit Diagram
 ![Circuit Diagram](images/Digital%20Prototype.png)
